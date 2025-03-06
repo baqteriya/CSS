@@ -16,3 +16,13 @@ button{
     color: rgb(17, 85, 63);
     background-color: rgb(38, 195, 195);
 }
+<style>
+        div {
+          width: 320px;
+          height: 50px;
+          padding: 10px;
+          border: 5px solid gray;
+          margin: 0;
+        }
+        </style>
+
