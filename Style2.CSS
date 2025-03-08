@@ -1,0 +1,19 @@
+*{
+    margin: 10px;
+    padding: 20px;
+}
+.Box{
+    border: rgb(107, 57, 154);
+    height: 200px;
+    width: 100px;
+    padding: 100px;
+    margin: 12px;
+    content: yellow;
+    text-align: center;
+}
+h1{
+    color: rgb(200, 0, 255);
+}
+body{
+   background-color: aqua;
+}
