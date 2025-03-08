@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+
+}
+h1{
+    color: brown;
+    text-align: center;
+    height: 20px;
+
+
+}
+p{
+    color: rgb(84, 44, 215);
+    height: fit-content;
+    line-height: 2;
+}
+form{
+    button{
+        color: rgb(226, 43, 67);
+    }
+    ::placeholder{
+        color: #6fa861;
+    }
+    h1{
+        color: rgb(189, 30, 86);
+    }
+}
+select{
+    color: #2b31d1;
+}
+text{
+    color: #620a52;
+}
